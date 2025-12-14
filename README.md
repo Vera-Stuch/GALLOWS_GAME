@@ -24,6 +24,6 @@
 Игра отлично подходит для отдыха и тренировки ума одновременно. Она одинаково интересна как взрослым, так и детям.
 Попробуйте себя в роли виртуального детектива, раскрывающего секреты русских слов, и получите удовольствие от процесса раскрытия тайны каждой буквы!
 ***
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%9932CC&lines=СТАНЬТЕ+МАСТЕРОМ+ИГРЫ+GALLOW_GAME!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%9932CC&lines=СТАНЬТЕ+МАСТЕРОМ+ИГРЫ+GALLOWS_GAME!)](https://git.io/typing-svg)
 
 
